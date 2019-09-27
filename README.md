@@ -1,9 +1,9 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/yeeraf/laravel-number-to-bahttext.svg?style=flat-square)](https://packagist.org/packages/yeeraf/laravel-number-to-bahttext)
-[![Build Status](https://img.shields.io/travis/yeeraf/laravel-number-to-bahttext/master.svg?style=flat-square)](https://travis-ci.org/yeeraf/laravel-number-to-bahttext)
-[![Quality Score](https://img.shields.io/scrutinizer/g/yeeraf/laravel-number-to-bahttext.svg?style=flat-square)](https://scrutinizer-ci.com/g/yeeraf/laravel-number-to-bahttext)
-[![Total Downloads](https://img.shields.io/packagist/dt/yeeraf/laravel-number-to-bahttext.svg?style=flat-square)](https://packagist.org/packages/yeeraf/laravel-number-to-bahttext)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/yeeraf/number-to-bahttext.svg?style=flat-square)](https://packagist.org/packages/yeeraf/number-to-bahttext)
+[![Build Status](https://img.shields.io/travis/yeeraf/number-to-bahttext/master.svg?style=flat-square)](https://travis-ci.org/yeeraf/number-to-bahttext)
+[![Quality Score](https://img.shields.io/scrutinizer/g/yeeraf/number-to-bahttext.svg?style=flat-square)](https://scrutinizer-ci.com/g/yeeraf/number-to-bahttext)
+[![Total Downloads](https://img.shields.io/packagist/dt/yeeraf/number-to-bahttext.svg?style=flat-square)](https://packagist.org/packages/yeeraf/number-to-bahttext)
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
@@ -12,7 +12,7 @@ This is where your description should go. Try and limit it to a paragraph or two
 You can install the package via composer:
 
 ```bash
-composer require yeeraf/yeeraf/laravel-number-to-bahttext
+composer require yeeraf/yeeraf/number-to-bahttext
 ```
 
 ## Usage
