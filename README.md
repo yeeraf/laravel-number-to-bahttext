@@ -1,7 +1,7 @@
 # Very short description of the package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/yeeraf/number-to-bahttext.svg?style=flat-square)](https://packagist.org/packages/yeeraf/number-to-bahttext)
-[![Build Status](https://img.shields.io/travis/yeeraf/number-to-bahttext/master.svg?style=flat-square)](https://travis-ci.org/yeeraf/number-to-bahttext)
+[![Build Status](https://travis-ci.org/yeeraf/number-to-bahttext.svg?branch=master)](https://travis-ci.org/yeeraf/number-to-bahttext)
 [![Quality Score](https://img.shields.io/scrutinizer/g/yeeraf/number-to-bahttext.svg?style=flat-square)](https://scrutinizer-ci.com/g/yeeraf/number-to-bahttext)
 [![Total Downloads](https://img.shields.io/packagist/dt/yeeraf/number-to-bahttext.svg?style=flat-square)](https://packagist.org/packages/yeeraf/number-to-bahttext)
 
