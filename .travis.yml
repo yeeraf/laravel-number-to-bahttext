@@ -1,21 +1,19 @@
+
+dist: precise
+
 language: php
 
 php:
-  - 7.1
   - 7.2
-  - 7.3
 
-env:
-  matrix:
-    - COMPOSER_FLAGS="--prefer-lowest"
-    - COMPOSER_FLAGS=""
+cache:
+  directories:
+    - node_modules
+    - vendor
 
 before_script:
-  - travis_retry composer self-update
-  - travis_retry composer update ${COMPOSER_FLAGS} --no-interaction --prefer-source
+  - composer self-update
+  - composer install --no-interaction
 
 script:
-  - vendor/bin/phpunit --coverage-text --coverage-clover=coverage.clover
-
-after_script:
-  - php vendor/bin/ocular code-coverage:upload --format=php-clover coverage.clover
+  - vendor/bin/phpunit
